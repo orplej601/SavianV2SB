@@ -17,7 +17,7 @@ ki2 = LINETCR.LINE()
 ki2.login(qr=True)
 ki2.loginResult()
 
-print "login success piii"
+print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
