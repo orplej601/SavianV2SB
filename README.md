@@ -1,10 +1,9 @@
-# KoplaxsSelfBot
-Koplaxs Self Bot
+# SavianV2SB
+Savian V2 SelfBot
 Basic Sc By : LINE TCR
 ============================================
 Bot Protect Versi Selfbot 1 Self + 2 Assist
 ============================================
-Bot Protect TCR Versi Selfbot
 -Siapkan 1 Akun Utama Dan 2 Akun Bot
 
 Fungsinya?
@@ -20,20 +19,14 @@ Kelemahan:
 Cara Instal :
 - pkg install python2 -y
 - pkg install git -y
-- git clone https://github.com/koplaxs/KoplaxsSelf
+- git clone https://github.com/orplej601/SavianV2SB
 - pip2 install rsa
 - pip2 install thrift==0.9.3
 - pip2 install requests
 
 Cara Menjalankan Botnya :
-- cd KoplaxsSelf
-- python KoplaxsSelf.py
-Video Tutorial :
-https://youtu.be/Isqse24n8GA
-
-
-Ada Pertanyaan?
-Add My Line => @hanavy1992
+- cd SavianV2SB
+- python SavianV2SB.py
 
 Thanks For :
 - Alfathdirk
