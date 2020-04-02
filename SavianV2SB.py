@@ -6,15 +6,15 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 
 cl = LINETCR.LINE()
-cl.login(token="Er9341xHz7ZM4zQPNUj2.Z5LrZkExCjUkk8OyLbDa8G.LqsmziVf8ndDM13DJI1v8o/eqrMAW0LOUc5rkagy5tQ=")
+cl.login(qr=True)
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="ErQF0UYADTQllEZmRpLc.H4M7imrj6N5dgHOagZOQpa.74vu1xth3AVVYIxJ/RbsxzUHTcXHGbR9RMm+onrfr6c=")
+ki.login(qr=True)
 ki.loginResult()
 
 ki2 = LINETCR.LINE()
-ki2.login(token="Erq9Z4yZtT6jFDq12cX6.TZ/Sy1g/muxm25h3BtebXG.4NOFtQ9Lx/+JbhKJ85EAOYUIsMzgS3ZMfDmDUHtUhzo=")
+ki2.login(qr=True)
 ki2.loginResult()
 
 print "login success piii"
